@@ -1,9 +1,0 @@
-# check whether the given integer is a multiple of 5
-def check(num):
-    if (num%5==0):
-        print(f'{num} is multiple of 5')
-    else:
-        print(f'{num} is not multiple of 5')
-
-number = int(input("Enter a number: "))
-check(number)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
